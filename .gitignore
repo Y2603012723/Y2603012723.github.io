@@ -1,0 +1,26 @@
+# Hugo 构建生成的网站文件
+/public/
+/dist/
+
+# Hugo 资源缓存，比如图片处理、SCSS 编译缓存
+/resources/_gen/
+.hugo_build.lock
+
+# Node 前端依赖，如果主题用 npm / pnpm / yarn
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+package-lock.json
+# package-lock.json 是否忽略看你团队习惯；个人博客可不忽略
+
+# 系统/编辑器文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 临时文件
+*.log
+*.tmp
+*.swp
