@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/Y2603012723/kkblog'
+baseURL = "https://Y2603012723.github.io/"
 locale = 'zh-cn'
 title = 'kk的博客'
 theme = 'ananke'
