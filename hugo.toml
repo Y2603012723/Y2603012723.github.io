@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://github.com/Y2603012723/kkblog'
+locale = 'zh-cn'
+title = 'kk的博客'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
